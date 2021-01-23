@@ -4,6 +4,7 @@
   "description": "A small command line utility to help a small fictional company calculate the dates on which they should pay their sales staff.",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "jest"
   },
   "author": "Adam Mackay",
